@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- This is often your domain name (reversed.)  -->
-    <groupId>com.yourorganization</groupId>
+    <groupId>com.martinjkellogg</groupId>
     <!-- The name of this project (actually, the name of the artifact, which is the thing that this project produces. A jar in this case.) -->
-    <artifactId>javaparser-maven-sample</artifactId>
+    <artifactId>arraylist-analysis</artifactId>
     <!-- The version of this project. SNAPSHOT means "we're still working on it" -->
     <version>1.0-SNAPSHOT</version>
     
